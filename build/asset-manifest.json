@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4ebaa88f.chunk.css",
+    "main.js": "/static/js/main.f5520000.chunk.js",
+    "main.js.map": "/static/js/main.f5520000.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1ca37b3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1ca37b3.js.map",
+    "static/js/2.523788bd.chunk.js": "/static/js/2.523788bd.chunk.js",
+    "static/js/2.523788bd.chunk.js.map": "/static/js/2.523788bd.chunk.js.map",
+    "static/js/3.d820b63a.chunk.js": "/static/js/3.d820b63a.chunk.js",
+    "static/js/3.d820b63a.chunk.js.map": "/static/js/3.d820b63a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4ebaa88f.chunk.css.map": "/static/css/main.4ebaa88f.chunk.css.map",
+    "static/js/2.523788bd.chunk.js.LICENSE.txt": "/static/js/2.523788bd.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/static/media/394-3944151_white-cloud-day-1-clouds-sprite-png1.e8113b5c.png",
+    "static/media/About.css": "/static/media/4-45408_dark-clouds-png-cloud-sprite-sheet-png.f9462833.png",
+    "static/media/Projects.css": "/static/media/fumée-cartoon-png-2.47ef5791.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1ca37b3.js",
+    "static/js/2.523788bd.chunk.js",
+    "static/css/main.4ebaa88f.chunk.css",
+    "static/js/main.f5520000.chunk.js"
+  ]
+}
