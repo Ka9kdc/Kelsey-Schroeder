@@ -12,7 +12,7 @@ const About = () => {
 		<div className="content">
 			<div className={showList === "" ? "about_Header" : "hidden"}>
 				<div>
-					<img src="images/kelsey.png" />
+					<img src="images/kelsey.png" alt="Head shot of Kelsey Schroeder"/>
 				</div>
 				<div>
 					<h1>Kelsey Schroeder</h1>
