@@ -1,5 +1,6 @@
 {
   "name": "my-profolio-website-react-app",
+  "homepage": "build/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
